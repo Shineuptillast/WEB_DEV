@@ -9,6 +9,7 @@ Crework started with an idea of collaborating with community to build projects, 
      - [HTML Elements](https://www.w3schools.com/html/html_elements.asp)
      - [HTML form Elements](https://www.w3schools.com/html/html_forms.asp)
      - [what is DOCTYPE decalaration in HTML](https://www.freecodecamp.org/news/what-is-the-doctype-declaration-in-html/)
+     - [UTF-8 ENCODING CHarset](https://dev.to/maggiecodes_/why-is-lt-meta-charset-utf-8-gt-important-59hl)
 - [x] Basics of Git and Github
     - [Basics of Git link-1](https://youtu.be/apGV9Kg7ics)
     - [Basics of Git link-2](https://www.youtube.com/watch?v=RGOj5yH7evk)
