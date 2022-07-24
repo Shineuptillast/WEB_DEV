@@ -14,3 +14,6 @@ Crework started with an idea of collaborating with community to build projects, 
     - [Cheat sheet of Git commands](https://github.com/Shineuptillast/WEB_DEV/blob/main/WEEK_1_TASK_CRE/images/git%20hub.jpg)
 - [x] Week 1 Task Creating Singup/Login Page using HTML Only
     -  [Task link](https://github.com/Shineuptillast/WEB_DEV/tree/main/WEEK_1_TASK_CRE)
+ ## My learning in Week 1
+    This is the very first time i have ever worked with html, and the first week has been astonishing for me, for what i have learnt in the past week starting from what is html and why are we still using it for the webpage structure although i just got the glimpse of html in the first week but now I'm really curious to learn it more and make more pages interacting with another. 
+    I also learnt git which is just Virtual control system, so that more developers can work on the same project as the same time, without effecting each other work and can also keep the track of the changes.
