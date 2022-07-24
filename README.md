@@ -5,4 +5,4 @@ Crework started with an idea of collaborating with community to build projects, 
 # **WEEK 1**
 - [x] Basics of Html From freecodecamp
 - [x] Basics of Git and Github
-- [x] Week 1 Task [TASK]()
+- [x] Week 1 Task [TASK](https://github.com/Shineuptillast/WEB_DEV/tree/main/WEEK_1_TASK_CRE)
