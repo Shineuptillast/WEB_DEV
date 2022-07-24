@@ -1,4 +1,5 @@
 # SIGNUP AND LOGIN PAGE
+In the First week of Crework, we were given the task to recreate the Sign Up and Login Page using only the HTML.
 
 In the First week of Crework, we were given the task to recreate the Sign Up and Login Page using only the HTML.
 
@@ -7,7 +8,14 @@ In the First week of Crework, we were given the task to recreate the Sign Up and
 ![Reference image](https://github.com/Shineuptillast/WEB_DEV/blob/main/WEEK_1_TASK_CRE/images/reference_img.png)
 
 ## My SIGNUP/LOGIN PAGE (HTML)
+<<<<<<< HEAD
 
 I have only used HTML for recreating this pages.
+=======
+I have only used HTML for recreating this pages. 
+
+
+
+>>>>>>> 1f2bc4d2d8f30078d3af953a019e693ea8f3113d
 
 ![SIGNUP](https://github.com/Shineuptillast/WEB_DEV/blob/main/WEEK_1_TASK_CRE/images/signup_page.png) ![LOGIN](https://github.com/Shineuptillast/WEB_DEV/blob/main/WEEK_1_TASK_CRE/images/login_page.png)
