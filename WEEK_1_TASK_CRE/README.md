@@ -1,4 +1,5 @@
-#SIGNUP AND LOGIN PAGE
-##WEEK-1 TASK
+# SIGNUP AND LOGIN PAGE
 
-#### Replica of Signup and login page using HTML only
+## WEEK-1 TASK
+
+##### Replica of Signup and login page using HTML only
