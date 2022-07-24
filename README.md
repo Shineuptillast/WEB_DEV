@@ -7,6 +7,6 @@ Crework started with an idea of collaborating with community to build projects, 
   - [Video Link](https://www.youtube.com/watch?v=mU6anWqZJcc)
 - [x] Basics of Git and Github
     - [Basics of Git link-1](https://youtu.be/apGV9Kg7ics)
-    - [basics of Git link-2](https://www.youtube.com/watch?v=RGOj5yH7evk)
+    - [Basics of Git link-2](https://www.youtube.com/watch?v=RGOj5yH7evk)
 - [x] Week 1 Task Creating Singup/Login Page using HTML Only
     -  [Task link](https://github.com/Shineuptillast/WEB_DEV/tree/main/WEEK_1_TASK_CRE)
