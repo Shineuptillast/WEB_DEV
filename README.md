@@ -3,7 +3,7 @@ Crework started with an idea of collaborating with community to build projects, 
 <br> I have uploaded my Crework Week-1 Task to my webdev Repository.
 
 # **WEEK 1**
-- [x] Basics of Html From freecodecamp 
+##- [x] Basics of HTML From freecodecamp 
   - Video Link [Youtube link](https://www.youtube.com/watch?v=mU6anWqZJcc)
 - [x] Basics of Git and Github
 - [x] Week 1 Task Creating Singup/Login Page using HTML Only
